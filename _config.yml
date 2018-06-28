@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Esther Schott"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Esther"
 description              : &description "personal description"
 url                      : https://e-schott.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,7 +83,7 @@ author:
   bio              : "PhD candidate"
   location         : "Montreal, Qc"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    :
   email            :
   uri              :
   bitbucket        :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "e-schott"
   google_plus      :
   keybase          :
   instagram        :
@@ -101,7 +101,7 @@ author:
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "estSchott"
