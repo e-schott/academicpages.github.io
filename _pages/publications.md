@@ -11,13 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
-Manuscripts in preparation
+Manuscripts in Preparation
 =======
 Schott, E., Rhemtulla, M., & Byers-Heinlein, K. (2018). Should I test more babies? Solutions for transparent data peeking. Manuscript under review.
 
 Byers-Heinlein, K., Schott, E., Gonzales-Barrero, A. M., & 9 others. (2018). Best practices for using parent report to measure bilingual infants’ language environments. Manuscript under review.
 
-Peer-reviewed articles and Book chapters
+Peer-reviewed Articles and Book Chapters
 =======
 Fodor, J. D., Nickels, S., & Schott, E. (2017). Center-embedded sentences: What’s pronounceable is comprehensible. In R.G. Almeida & Gleitman, L. (Ed.), On Concepts, Modules, and Language: Cognitive Science at Its Core. Oxford: Oxford University Press.
 
