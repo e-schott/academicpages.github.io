@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Student in Krista Byers-Heinlein's lab at Concordia University. I'm interested in how babies learn language, and in particular what bilingual infants know about their language environment. I am also interested in how we can improve our research methods, especially when working with hard-to-recruit populations like bilingual infants.
+I am a PhD Student with [Krista Byers-Heinlein](http://infantresearch.ca/team/) at Concordia University. I'm interested in how babies learn language, and in particular what bilingual infants know about their language environment. I am also interested in how we can improve our research methods, especially when working with hard-to-recruit populations like bilingual infants.
