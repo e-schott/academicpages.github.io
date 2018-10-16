@@ -14,7 +14,7 @@ Past:
 
 **Schott, E.**, Kremin, L.V., & Byers-Heinlein, K. (2018, October). Baby, are you bilingual? A census-based approach to rates of and types of infant and child bilingualism in Canada. Poster presented at Diverse Perspectives on Bilingualism, Montreal, Canada.
 
-[Link to poster](https://osf.io/2gzfw/)
+[Link to poster](https://osf.io/4gekn/)
 
 
 **Schott, E.**, & Byers-Heinlein, K. (2018, September). Does cross-language similarity affect how bilinguals represent words? Poster to be presented at Crossing the Border Conference: Development of Language, Cognition and the Brain, Potsdam, Germany.
