@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-Manuscripts in Preparation
+Manuscripts in Press
 =======
 **Schott, E.**, Rhemtulla, M., & Byers-Heinlein, K. (2018). Should I test more babies? Solutions for transparent data peeking. Manuscript under review.
 
