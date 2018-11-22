@@ -15,18 +15,12 @@ Manuscripts in Press
 =======
 **Schott, E.**, Rhemtulla, M., & Byers-Heinlein, K. (in press). Should I test more babies? Solutions for transparent data peeking. Infant Behavior and Development.
 
-[*View preprint*](https://psyarxiv.com/gxfaj/)
-
-[*View code*](https://e-schott.github.io/code/SolutionsForTransparentDataPeeking-resub.html)
-
-[*View supplemental materials*](https://osf.io/qd25s/)
+[*View preprint*](https://psyarxiv.com/gxfaj/)     \|    [*View code*](https://e-schott.github.io/code/SolutionsForTransparentDataPeeking-resub.html)     \|    [*View supplemental materials*](https://osf.io/qd25s/)
 
 
 Byers-Heinlein, K., **Schott, E.**, Gonzales-Barrero, A. M., & 9 others. (in press). Best practices for using parent report to measure bilingual infants’ language environments. Bilingualism: Language and Cognition.
 
-[*View preprint*](https://psyarxiv.com/r2q3u/)   
-
-[*View supplemental materials*](https://osf.io/byxfz/)
+[*View preprint*](https://psyarxiv.com/r2q3u/)     \|    [*View supplemental materials*](https://osf.io/byxfz/)
 
 Peer-reviewed Articles and Book Chapters
 =======
