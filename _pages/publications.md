@@ -18,7 +18,7 @@ Manuscripts in Press
 [*View* ***preprint***](https://psyarxiv.com/gxfaj/)     \|    [*View* ***code***](https://e-schott.github.io/code/SolutionsForTransparentDataPeeking-resub.html)     \|    [*View* ***supplemental materials***](https://osf.io/qd25s/)     \|    [*View on* ***journal website***](https://www.sciencedirect.com/science/article/pii/S0163638318300894)
 
 
-Byers-Heinlein, K., **Schott, E.**, Gonzales-Barrero, A. M., & 9 others. (in press). Best practices for using parent report to measure bilingual infants’ language environments. Bilingualism: Language and Cognition.
+Byers-Heinlein, K., **Schott, E.**, Gonzalez-Barrero, A. M., & 9 others. (in press). Best practices for using parent report to measure bilingual infants’ language environments. Bilingualism: Language and Cognition.
 
 [*View* ***preprint***](https://psyarxiv.com/r2q3u/)     \|    [*View* ***supplemental materials***](https://osf.io/byxfz/)
 

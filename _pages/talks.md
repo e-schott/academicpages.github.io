@@ -8,8 +8,11 @@ author_profile: true
 Upcoming presentations:
 -----
 
-**Schott, E.**, Rhemtulla, M., & Byers-Heinlein, K. (2019, March). *Planning your pilot study: What to do and what to avoid.* Paper to be presented at the [Society for Research in Child Development Biennial Meeting](https://www.srcd.org/meetings/biennial-meeting/schedule-glance), Baltimore, USA.
+**Schott, E.**, Scheel, A., Rhemtulla, M., & Byers-Heinlein, K. (2019, March). *Planning your pilot study: What to do and what to avoid.* Paper to be presented at the [Society for Research in Child Development Biennial Meeting](https://www.srcd.org/meetings/biennial-meeting/schedule-glance), Baltimore, USA.
 
+*The Development of Translation Equivalents in Bilingual Toddlers’ Vocabulary*. Poster to be presented at the [Society for Research in Child Development Biennial Meeting](https://www.srcd.org/meetings/biennial-meeting/schedule-glance), Baltimore, USA.
+
+Byers-Heinlein, K., **Schott, E.**, & Gonzalez-Barrero, A.M., (2019, March) MAPLE: A Multilingual Approach to Parent Language Estimates. Paper to be presented at the [Society for Research in Child Development Biennial Meeting](https://www.srcd.org/meetings/biennial-meeting/schedule-glance), Baltimore, USA.
 
 **Schott, E.**, Rhemtulla, M., & Byers-Heinlein, K. (2019, June). *Efficient data collection with hard-to-recruit populations: Transparent data peeking for bilingualism researchers.* Poster to be presented at the [International Symposium on Bilingualism 12](http://sites.psych.ualberta.ca/ISB12/), Edmonton, Canada.
 
