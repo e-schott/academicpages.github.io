@@ -83,7 +83,7 @@ author:
   bio              : "PhD candidate"
   location         : "Montreal, Qc"
   employer         :
-  googlescholar    : "user=4CqfLk4AAAAJ"
+  googlescholar    : "https://scholar.google.ca/citations?user=4CqfLk4AAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
@@ -101,7 +101,7 @@ author:
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    :
+  stackoverflow    : "https://stackoverflow.com/users/5921180/esther"
   steam            :
   tumblr           :
   twitter          : "estSchott"
