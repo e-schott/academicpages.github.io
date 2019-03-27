@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-Bilingual Word Learning: Is it easier for bilingual infants to learn banana/banane than apple/pomme?
+Bilingual Word Learning: Is it easier for bilingual infants to learn banana/*banane* than apple/*pomme*?
 -----
 Bilinguals learn two labels for the things in their environment. Sometimes, these labels sound similar across the two languages, e.g., banana and *banane* ("banana" in French), but often the labels sound different, e.g. apple and *pomme* ("apple" in French). Is it easier for bilingual infants to learn word pairs that sound similar across languages?
 
