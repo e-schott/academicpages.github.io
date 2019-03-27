@@ -18,7 +18,7 @@ Past:
 
 **Schott, E.**, Scheel, A., Rhemtulla, M., & Byers-Heinlein, K. (2019, March). *Planning your pilot study: What to do and what to avoid.* Paper presented at the [Society for Research in Child Development Biennial Meeting](https://www.srcd.org/meetings/biennial-meeting/schedule-glance), Baltimore, USA.
 
-[Link to slides & code] (https://osf.io/qcwfz/)
+[Link to slides & code](https://osf.io/qcwfz/)
 
 Gonzalez-Barrero, A.M., **Schott, E.**, & Byers-Heinlein, K. (2019, March). *The Development of Translation Equivalents in Bilingual Toddlers’ Vocabulary*. Poster presented at the [Society for Research in Child Development Biennial Meeting](https://www.srcd.org/meetings/biennial-meeting/schedule-glance), Baltimore, USA.
 
