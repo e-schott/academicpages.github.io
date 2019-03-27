@@ -18,7 +18,7 @@ Past:
 
 **Schott, E.**, Scheel, A., Rhemtulla, M., & Byers-Heinlein, K. (2019, March). *Planning your pilot study: What to do and what to avoid.* Paper presented at the [Society for Research in Child Development Biennial Meeting](https://www.srcd.org/meetings/biennial-meeting/schedule-glance), Baltimore, USA.
 
-[Link to slides & code](https://osf.io/qcwfz/)
+[Link to **slides**](https://osf.io/qcwfz/)
 
 Gonzalez-Barrero, A.M., **Schott, E.**, & Byers-Heinlein, K. (2019, March). *The Development of Translation Equivalents in Bilingual Toddlers’ Vocabulary*. Poster presented at the [Society for Research in Child Development Biennial Meeting](https://www.srcd.org/meetings/biennial-meeting/schedule-glance), Baltimore, USA.
 
@@ -27,7 +27,7 @@ Byers-Heinlein, K., **Schott, E.**, & Gonzalez-Barrero, A.M., (2019, March) MAPL
 
 **Schott, E.**, Kremin, L.V., & Byers-Heinlein, K. (2018, October). *Baby, are you bilingual? A census-based approach to rates of and types of infant and child bilingualism in Canada.* Poster presented at Diverse Perspectives on Bilingualism, Montreal, Canada.
 
-[Link to poster](https://osf.io/4gekn/)
+[Link to **poster**](https://osf.io/4gekn/)
 
 
 **Schott, E.**, & Byers-Heinlein, K. (2018, September). *Does cross-language similarity affect how bilinguals represent words?* Poster to be presented at Crossing the Border Conference: Development of Language, Cognition and the Brain, Potsdam, Germany.
@@ -35,7 +35,7 @@ Byers-Heinlein, K., **Schott, E.**, & Gonzalez-Barrero, A.M., (2019, March) MAPL
 
 **Schott, E.**, Rhemtulla, M., & Byers-Heinlein, K. (2018, July). *But really, should I test more babies? A guide to ethical data peeking for infant researchers.* Paper presented at the Biennial International Conference on Infant Studies, Philadelphia, USA.
 
-[Link to slides & code](https://osf.io/cb6hw/)
+[Link to **slides & code**](https://osf.io/cb6hw/)
 
 
 **Schott, E.**, Fourakis, E., Lew-Williams, C., & Byers-Heinlein, K. (2018, July). *Fine-tuning language discrimination: Monolingual and bilingual infants’ ability to detect single-word language switches.* Poster presented at the Biennial International Conference on Infant Studies, Philadelphia, USA.
