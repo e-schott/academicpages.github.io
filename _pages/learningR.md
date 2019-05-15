@@ -13,7 +13,9 @@ Here's some favourite resources for learning R:
 [**Programming with R**](https://swcarpentry.github.io/r-novice-inflammation/), a recent discovery that provides a structured intro to data analysis in R for beginners
 
 
-**Advanced R**:
+
+
+Advanced R topics:
 
 [**Intro to purrr** by Jenny Bryan](https://jennybc.github.io/purrr-tutorial/). I started using purrr recently and it's very useful for batching stuff. Love that this tutorial shows a user workflow
 
