@@ -6,14 +6,16 @@ author_profile: true
 ---
 
 Here's some favourite resources for learning R:
-[R Cookbook, great for all things ggplot](http://www.cookbook-r.com/Graphs/)
+
+[*R Cookbook*](http://www.cookbook-r.com/Graphs/), great for all things ggplot - the only resource that was around when I started learning R (seven years ago) and I still use regularly
 
 
-[Structured Intro to R](https://swcarpentry.github.io/r-novice-inflammation/)
+[*Programming with R*](https://swcarpentry.github.io/r-novice-inflammation/), a recent discovery that provides a structured intro to data analysis in R for beginners
 
 
-Advanced R learners:
-[Intro to purrr (very useful for batching tasks)](https://jennybc.github.io/purrr-tutorial/)
+*Advanced R*:
+
+[*Intro to purrr* by Jenny Bryan](https://jennybc.github.io/purrr-tutorial/). I started using purrr recently and it's very useful for batching stuff. Love that this tutorial shows a user workflow
 
 
-[Advanced R programming](https://adv-r.hadley.nz/)
+[*Advanced R programming* by Hadley Wickham](https://adv-r.hadley.nz/), more in-depth intro to purrr
