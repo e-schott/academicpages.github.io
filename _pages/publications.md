@@ -11,16 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
-Manuscripts in Press
+Peer-reviewed Articles and Book Chapters
 =======
 
 Byers-Heinlein, K., **Schott, E.**, Gonzalez-Barrero, A. M., & 9 others. (in press). MAPLE: A Multilingual
 Approach to Parent Language Estimates. *Bilingualism: Language and Cognition*.
 
-[*View* ***preprint***](https://psyarxiv.com/r2q3u/)     \|    [*View* ***supplemental materials***](https://osf.io/byxfz/)
-
-Peer-reviewed Articles and Book Chapters
-=======
+[*View* ***preprint***](https://psyarxiv.com/r2q3u/)     \|    [*View* ***supplemental materials***](https://osf.io/byxfz/) \|    [*View on* ***journal website***](https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/maple-a-multilingual-approach-to-parent-language-estimates/871E9488574C8F638FCFAA9234DC0159)
 
 **Schott, E.**, Rhemtulla, M., & Byers-Heinlein, K. (2019). Should I test more babies? Solutions for transparent data peeking. *Infant Behavior and Development*, 54, 166-176.
 
