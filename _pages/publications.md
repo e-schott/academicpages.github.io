@@ -21,7 +21,7 @@ Approach to Parent Language Estimates. *Bilingualism: Language and Cognition*.
 
 **Schott, E.**, Rhemtulla, M., & Byers-Heinlein, K. (2019). Should I test more babies? Solutions for transparent data peeking. *Infant Behavior and Development*, 54, 166-176.
 
-[*View* ***preprint***](https://psyarxiv.com/gxfaj/)     \|    [*View* ***code***](https://e-schott.github.io/code/SolutionsForTransparentDataPeeking-resub.html)     \|    [*View* ***supplemental materials***](https://osf.io/qd25s/)     \|    [*View on* ***journal website***](https://authors.elsevier.com/a/1YdNGbDG3rNxU)
+[*View* ***preprint***](https://psyarxiv.com/gxfaj/)     \|    [*View* ***code***](https://e-schott.github.io/code/SolutionsForTransparentDataPeeking-resub.html)     \|    [*View* ***supplemental materials***](https://osf.io/qd25s/)     \|    [*View on* ***journal website***](https://www.sciencedirect.com/science/article/pii/S0163638318300894)
 
 Fodor, J. D., Nickels, S., & **Schott, E.** (2017). Center-embedded sentences: What’s pronounceable is comprehensible. In R.G. Almeida & Gleitman, L. (Ed.), On Concepts, Modules, and Language: Cognitive Science at Its Core. Oxford: Oxford University Press.
 
