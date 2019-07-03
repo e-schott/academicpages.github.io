@@ -8,13 +8,20 @@ author_profile: true
 Upcoming presentations:
 -----
 
-**Schott, E.**, Rhemtulla, M., & Byers-Heinlein, K. (2019, June). *Efficient data collection with hard-to-recruit populations: Transparent data peeking for bilingualism researchers.* Poster to be presented at the [International Symposium on Bilingualism 12](http://sites.psych.ualberta.ca/ISB12/), Edmonton, Canada.
-
-**Schott, E.**, Kremin, L.V., & Byers-Heinlein, K. (2019, June). *Child Bi- and Multilingualism in the Home in Canada: Rates and language pairs.* Poster to be presented at the [International Symposium on Bilingualism 12](http://sites.psych.ualberta.ca/ISB12/), Edmonton, Canada.
+**Schott, E.**, & Byers-Heinlein, K. (2019, November). *Bilingual and monolingual toddlers are sensitive to mispronunciations for familiar cognate and non-cognate words.* Poster to be presented at the [44th Boston University Conference on Language Development](https://www.bu.edu/bucld/), Boston, USA.
 
 
 Past:
 -----
+
+**Schott, E.**, Rhemtulla, M., & Byers-Heinlein, K. (2019, June). *Efficient data collection with hard-to-recruit populations: Transparent data peeking for bilingualism researchers.* Poster presented at the [International Symposium on Bilingualism 12](http://sites.psych.ualberta.ca/ISB12/), Edmonton, Canada.
+
+[View poster on OSF](https://osf.io/egdcv/)
+
+**Schott, E.**, Kremin, L.V., & Byers-Heinlein, K. (2019, June). *Child Bi- and Multilingualism in the Home in Canada: Rates and language pairs.* Poster presented at the [International Symposium on Bilingualism 12](http://sites.psych.ualberta.ca/ISB12/), Edmonton, Canada.
+
+[View poster on OSF](https://osf.io/vn79w/)
+
 
 **Schott, E.**, Scheel, A., Rhemtulla, M., & Byers-Heinlein, K. (2019, March). *Planning your pilot study: What to do and what to avoid.* Paper presented at the [Society for Research in Child Development Biennial Meeting](https://www.srcd.org/meetings/biennial-meeting/schedule-glance), Baltimore, USA.
 
