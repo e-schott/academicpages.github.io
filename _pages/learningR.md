@@ -1,11 +1,11 @@
 ---
 layout: archive
 title: "Teaching"
-permalink: /learningR/
+permalink: /teaching/
 author_profile: true
 ---
 
-**News**: I'm teaching two courses on R with [**GradProSkills**](https://www.concordia.ca/students/gradproskills.html) at Concordia University.
+ I am teaching two courses on R with [**GradProSkills**](https://www.concordia.ca/students/gradproskills.html) at Concordia University.
 [**Reproducible Scientific Analysis with R**](https://www.concordia.ca/students/gradproskills/workshops/details.html?subject_area=GPDI&catalog_number=517)
 [**Beginner’s Guide to the R Programming Language**](https://www.concordia.ca/students/gradproskills/workshops/details.html?subject_area=GPDI&catalog_number=515)
 
