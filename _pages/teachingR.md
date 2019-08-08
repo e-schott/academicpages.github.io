@@ -6,8 +6,11 @@ author_profile: true
 ---
 
  I am teaching two courses on R with [**GradProSkills**](https://www.concordia.ca/students/gradproskills.html) at Concordia University.
-[**Reproducible Scientific Analysis with R**](https://www.concordia.ca/students/gradproskills/workshops/details.html?subject_area=GPDI&catalog_number=517)
+
 [**Beginner’s Guide to the R Programming Language**](https://www.concordia.ca/students/gradproskills/workshops/details.html?subject_area=GPDI&catalog_number=515)
+
+[**Reproducible Scientific Analysis with R**](https://www.concordia.ca/students/gradproskills/workshops/details.html?subject_area=GPDI&catalog_number=517)
+
 
 Here's some more resources for learning R I've found useful:
 
