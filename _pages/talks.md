@@ -5,15 +5,14 @@ permalink: /talks/
 author_profile: true
 ---
 
-Upcoming presentations:
------
-
-**Schott, E.**, & Byers-Heinlein, K. (2019, November). *Bilingual and monolingual toddlers are sensitive to mispronunciations for familiar cognate and non-cognate words.* Poster to be presented at the [44th Boston University Conference on Language Development](https://www.bu.edu/bucld/), Boston, USA.
-
-**Schott, E.**, & Byers-Heinlein, K. (2019, November). *Bilingual and monolingual toddlers can detect mispronunciations, regardless of cognate status.* Poster to be presented at the [Auditory Perception, Cognition, and Action Meeting](https://apcsociety.org/index.html), Montreal, Canada.
+<!-- Upcoming & recent presentations:
+----- -->
 
 Past:
 -----
+**Schott, E.**, & Byers-Heinlein, K. (2019, November). *Bilingual and monolingual toddlers are sensitive to mispronunciations for familiar cognate and non-cognate words.* Poster presented at the [44th Boston University Conference on Language Development](https://www.bu.edu/bucld/), Boston, USA.
+
+**Schott, E.**, & Byers-Heinlein, K. (2019, November). *Bilingual and monolingual toddlers can detect mispronunciations, regardless of cognate status.* Poster presented at the [Auditory Perception, Cognition, and Action Meeting](https://apcsociety.org/index.html), Montreal, Canada.
 
 **Schott, E.**, Rhemtulla, M., & Byers-Heinlein, K. (2019, June). *Efficient data collection with hard-to-recruit populations: Transparent data peeking for bilingualism researchers.* Poster presented at the [International Symposium on Bilingualism 12](http://sites.psych.ualberta.ca/ISB12/), Edmonton, Canada.
 
