@@ -7,7 +7,7 @@ author_profile: true
 
  I have taught multiple courses on R with [**GradProSkills**](https://www.concordia.ca/students/gradproskills.html) as well as the [**Center for Research on Human Development**](http://crdh.concordia.ca/homee.html) at Concordia University.
 
-[Slides for **"Beginner's Guide to R for Psychology Researchers" ** ](https://osf.io/2bfjy/)
+[Slides for **"Beginner's Guide to R for Psychology Researchers"** ](https://osf.io/2bfjy/)
 
 [**Beginner’s Guide to the R Programming Language**](https://www.concordia.ca/students/gradproskills/workshops/details.html?subject_area=GPDI&catalog_number=515)
 

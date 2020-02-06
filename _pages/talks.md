@@ -8,7 +8,8 @@ author_profile: true
 Upcoming presentations:
 -----
 **Schott, E.**, Kosie, J.E., & Byers-Heinlein, K. (2020, July). *Tools for transparency: Practical tips for sharing your research.* Paper to be presented at the [International Congress of Infant Studies (ICIS 2020) ](https://infantstudies.org/congress-2020/), Glasgow, Scotland.
-**Schott, E.**, Tamayo, M.P., & Byers-Heinlein, K. (2019, June). *Keeping track of language: Bilingual and monolingual infants’ ability to associate a person with the language they speak.* Poster to be presented at the [International Congress of Infant Studies (ICIS 2020)](https://infantstudies.org/congress-2020/), Glasgow, Scotland.
+
+**Schott, E.**, Tamayo, M.P., & Byers-Heinlein, K. (2020, July). *Keeping track of language: Bilingual and monolingual infants’ ability to associate a person with the language they speak.* Poster to be presented at the [International Congress of Infant Studies (ICIS 2020)](https://infantstudies.org/congress-2020/), Glasgow, Scotland.
 
 Past:
 -----
