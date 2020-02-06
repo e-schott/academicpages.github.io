@@ -7,9 +7,9 @@ author_profile: true
 
 Upcoming presentations:
 -----
-**Schott, E.**, Kosie, J.E., & Byers-Heinlein, K. (2020, July). *Tools for transparency: Practical tips for sharing your research.* Paper to be presented at the [Biennial International Conference on Infant Studies (ICIS 2020) ](https://infantstudies.org/congress-2020/), Glasgow, Scotland.
+**Schott, E.**, Kosie, J.E., & Byers-Heinlein, K. (2020, July). *Tools for transparency: Practical tips for sharing your research.* Paper to be presented at the [International Congress of Infant Studies (ICIS 2020) ](https://infantstudies.org/congress-2020/), Glasgow, Scotland.
 
-**Schott, E.**, Tamayo, M.P., & Byers-Heinlein, K. (2020, July). *Keeping track of language: Bilingual and monolingual infants’ ability to associate a person with the language they speak.* Poster to be presented at the [Biennial International Conference on Infant Studies (ICIS 2020)](https://infantstudies.org/congress-2020/), Glasgow, Scotland.
+**Schott, E.**, Tamayo, M.P., & Byers-Heinlein, K. (2020, July). *Keeping track of language: Bilingual and monolingual infants’ ability to associate a person with the language they speak.* Poster to be presented at the [International Congress of Infant Studies (ICIS 2020)](https://infantstudies.org/congress-2020/), Glasgow, Scotland.
 
 Past:
 -----
@@ -43,9 +43,9 @@ Byers-Heinlein, K., **Schott, E.**, & Gonzalez-Barrero, A.M., (2019, March) MAPL
 **Schott, E.**, & Byers-Heinlein, K. (2018, September). *Does cross-language similarity affect how bilinguals represent words?* Poster to be presented at Crossing the Border Conference: Development of Language, Cognition and the Brain, Potsdam, Germany.
 
 
-**Schott, E.**, Rhemtulla, M., & Byers-Heinlein, K. (2018, July). *But really, should I test more babies? A guide to ethical data peeking for infant researchers.* Paper presented at the Biennial International Conference on Infant Studies (ICIS 2018), Philadelphia, USA.
+**Schott, E.**, Rhemtulla, M., & Byers-Heinlein, K. (2018, July). *But really, should I test more babies? A guide to ethical data peeking for infant researchers.* Paper presented at the International Congress of Infant Studies (ICIS 2018), Philadelphia, USA.
 
 [Link to **slides & code**](https://osf.io/cb6hw/)
 
 
-**Schott, E.**, Fourakis, E., Lew-Williams, C., & Byers-Heinlein, K. (2018, July). *Fine-tuning language discrimination: Monolingual and bilingual infants’ ability to detect single-word language switches.* Poster presented at the Biennial International Conference on Infant Studies (ICIS 2018), Philadelphia, USA.
+**Schott, E.**, Fourakis, E., Lew-Williams, C., & Byers-Heinlein, K. (2018, July). *Fine-tuning language discrimination: Monolingual and bilingual infants’ ability to detect single-word language switches.* Poster presented at the International Congress of Infant Studies (ICIS 2018), Philadelphia, USA.
