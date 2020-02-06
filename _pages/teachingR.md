@@ -5,26 +5,19 @@ permalink: /teachingR/
 author_profile: true
 ---
 
- I am teaching two courses on R with [**GradProSkills**](https://www.concordia.ca/students/gradproskills.html) at Concordia University.
+ I have taught multiple courses on R with [**GradProSkills**](https://www.concordia.ca/students/gradproskills.html) as well as the [**Center for Research on Human Development**](http://crdh.concordia.ca/homee.html) at Concordia University.
+
+[Slides for **"Beginner's Guide to R for Psychology Researchers" ** ](https://osf.io/2bfjy/)
 
 [**Beginner’s Guide to the R Programming Language**](https://www.concordia.ca/students/gradproskills/workshops/details.html?subject_area=GPDI&catalog_number=515)
 
 [**Reproducible Scientific Analysis with R**](https://www.concordia.ca/students/gradproskills/workshops/details.html?subject_area=GPDI&catalog_number=517)
 
 
-Here's some more resources for learning R I've found useful:
+More resources for learning R I've found useful:
 
-[**R Cookbook**](http://www.cookbook-r.com/Graphs/), great for all things ggplot - the only resource that was around when I started learning R (seven years ago) and I still use regularly
+[**R Cookbook**](http://www.cookbook-r.com/Graphs/), great for all things ggplot - a gem of a resource that was around when I started learning R (seven years ago) and I still use regularly
 
+[**Learning Statistics with R**](https://learningstatisticswithr.com/) by Danielle Navarro, a great intro to novice programmers, specifically written for psych students!
 
 [**Programming with R**](https://swcarpentry.github.io/r-novice-inflammation/), provides a structured intro to data analysis in R for beginners - also very useful for creating an R course!
-
-
-
-
-Advanced R topics:
-
-[**Intro to purrr** by Jenny Bryan](https://jennybc.github.io/purrr-tutorial/). I started using purrr recently and it's very useful for batching stuff. Love that this tutorial shows a user workflow with troubleshooting etc.
-
-
-[**Advanced R programming** by Hadley Wickham](https://adv-r.hadley.nz/), more in-depth intro to purrr
