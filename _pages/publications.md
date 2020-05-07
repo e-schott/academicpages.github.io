@@ -11,8 +11,15 @@ author_profile: true
 
 {% include base_path %}
 
+Manuscripts In Progress
+======
+
+**Schott, E.**, Mastroberardino, M., Fourakis, E., Lew-Williams, C., & Byers-Heinlein, K. (2020). Fine-tuning language discrimination: Monolingual and bilingual infants’ detection of language switching. Manuscript submitted for publication. [*View* ***preprint***](https://psyarxiv.com/xkc9b/)  
+
+
 Peer-reviewed Articles and Book Chapters
 =======
+
 
 Byers-Heinlein, K., **Schott, E.**, Gonzalez-Barrero, A. M., & 9 others. (in press). MAPLE: A Multilingual
 Approach to Parent Language Estimates. *Bilingualism: Language and Cognition*.
