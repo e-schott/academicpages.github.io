@@ -14,7 +14,9 @@ author_profile: true
 Manuscripts In Progress
 ======
 
-**Schott, E.**, Mastroberardino, M., Fourakis, E., Lew-Williams, C., & Byers-Heinlein, K. (2020). Fine-tuning language discrimination: Monolingual and bilingual infants’ detection of language switching. Manuscript submitted for publication. [*View* ***preprint***](https://psyarxiv.com/xkc9b/)  
+**Schott, E.**, Mastroberardino, M., Fourakis, E., Lew-Williams, C., & Byers-Heinlein, K. (2020). Fine-tuning language discrimination: Monolingual and bilingual infants’ detection of language switching. Manuscript submitted for publication.
+
+[*View* ***preprint***](https://psyarxiv.com/xkc9b/)  
 
 
 Peer-reviewed Articles and Book Chapters
