@@ -5,14 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
-Upcoming presentations:
+Past presentations:
 -----
 **Schott, E.**, Kosie, J.E., & Byers-Heinlein, K. (2020, July). *Tools for transparency: Practical tips for sharing your research.* Paper to be presented at the virtual [International Congress of Infant Studies (vICIS 2020) ](https://infantstudies.org/congress-2020/), Glasgow, Scotland.
 
-**Schott, E.**, Tamayo, M.P., & Byers-Heinlein, K. (2020, July). *Keeping track of language: Bilingual and monolingual infants’ ability to associate a person with the language they speak.* Poster to be presented at the [International Congress of Infant Studies (ICIS 2020)](https://infantstudies.org/congress-2020/), Glasgow, Scotland.
+**Schott, E.**, Tamayo, M.P., & Byers-Heinlein, K. (cancelled due to pandemic). *Keeping track of language: Bilingual and monolingual infants’ ability to associate a person with the language they speak.* Poster accepted at the [International Congress of Infant Studies (ICIS 2020)](https://infantstudies.org/congress-2020/), Glasgow, Scotland.
 
-Past:
------
 **Schott, E.**, & Byers-Heinlein, K. (2019, November). *Bilingual and monolingual toddlers are sensitive to mispronunciations for familiar cognate and non-cognate words.* Poster presented at the [44th Boston University Conference on Language Development](https://www.bu.edu/bucld/), Boston, USA.
 
 **Schott, E.**, & Byers-Heinlein, K. (2019, November). *Bilingual and monolingual toddlers can detect mispronunciations, regardless of cognate status.* Poster presented at the [Auditory Perception, Cognition, and Action Meeting](https://apcsociety.org/index.html), Montreal, Canada.
