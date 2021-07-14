@@ -14,9 +14,14 @@ author_profile: true
 Manuscripts In Progress
 ======
 
-**Schott, E.**, Mastroberardino, M., Fourakis, E., Lew-Williams, C., & Byers-Heinlein, K. (2020). Fine-tuning language discrimination: Monolingual and bilingual infants’ detection of language switching. Manuscript submitted for publication.
+**Schott, E.**, Mastroberardino, M., Fourakis, E., Lew-Williams, C., & Byers-Heinlein, K. (2021). Fine-tuning language discrimination: Monolingual and bilingual infants’ detection of language switching. Accepted for publication at *Infancy*.
 
 [*View* ***preprint***](https://psyarxiv.com/xkc9b/)  
+
+
+Tsui, R. K. Y. , Gonzalez-Barrero, A. M., **Schott, E.**, Byers-Heinlein, K. (2021) Are translation equivalents special? Evidence from simulations and empirical data from bilingual infants. Manuscript submitted for publication.
+
+[*View* ***preprint***](https://psyarxiv.com/h4jxe/)  
 
 
 Peer-reviewed Articles and Book Chapters
